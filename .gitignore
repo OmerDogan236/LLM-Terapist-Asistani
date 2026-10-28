@@ -1,0 +1,24 @@
+# Gizli anahtarlar
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Kullanıcı verisi (hesaplar ve günlük kayıtları) – asla paylaşılmaz
+data/users.json
+data/diary.json
+
+# Üretilen / indirilen veri
+data/raw/
+data/index/
+data/index_mental/
+data/scope_cache/
+*.pkl
+*.index

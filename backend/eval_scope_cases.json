@@ -1,0 +1,582 @@
+[
+  {
+    "text": "hava durumu nasıl",
+    "label": "out"
+  },
+  {
+    "text": "kendimi çok bunalmış hissediyorum",
+    "label": "in"
+  },
+  {
+    "text": "yaşamak istemiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Bugün çok dalgınım, hiçbir şeye odaklanamıyorum ve bu beni korkutuyor.",
+    "label": "in"
+  },
+  {
+    "text": "Son iki haftadır sürekli gerginim; sanki kötü bir şey olacakmış gibi.",
+    "label": "in"
+  },
+  {
+    "text": "Sosyal ortamlarda konuşurken yüzüm kızarıyor, kalbim hızlanıyor, kaçmak istiyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Gece uykuya dalıyorum ama aniden uyanıp tekrar uyuyamıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Sabahları kalkınca içimde ağır bir sıkıntı oluyor, gün başlamadan bitmiş gibi.",
+    "label": "in"
+  },
+  {
+    "text": "İşim yüzünden tükenmiş hissediyorum; artık motivasyonum yok.",
+    "label": "in"
+  },
+  {
+    "text": "Aklımdaki düşünceyi susturamıyorum; aynı şeyi tekrar tekrar düşünüyorum.",
+    "label": "in"
+  },
+  {
+    "text": "İlişkimde sürekli yanlış anlaşılma oluyor, bunu nasıl daha sağlıklı konuşabiliriz?",
+    "label": "in"
+  },
+  {
+    "text": "Sınır koyamıyorum; sonra da içten içe öfkeleniyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Kendimi sürekli başkalarıyla kıyaslıyorum ve yetersiz hissediyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Öz-şefkat nedir ve kendime daha nazik olmayı nasıl öğrenirim?",
+    "label": "in"
+  },
+  {
+    "text": "Bir kayıp yaşadım; ara ara iyi gibiyim ama sonra birden çöküyorum, bu normal mi?",
+    "label": "in"
+  },
+  {
+    "text": "Panik atağa benzer bir şey yaşıyorum: nefesim daralıyor ve kontrolü kaybedecek gibi oluyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Öfkem yükselince sesimi kontrol edemiyorum; sonrasında pişman oluyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Gün içinde aşırı yeme isteğim geliyor; çoğu zaman stresliyken oluyor.",
+    "label": "in"
+  },
+  {
+    "text": "Uyku hijyeni nedir? Daha düzenli uyumak için bir rutin önerebilir misin?",
+    "label": "in"
+  },
+  {
+    "text": "Erteliyorum, sonra suçluluk duyuyorum; bu döngüyü nasıl kırarım?",
+    "label": "in"
+  },
+  {
+    "text": "İçsel eleştirim çok sert; kendimi sürekli azarlıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Karar verirken aşırı düşünüyorum; en küçük seçim bile beni kilitliyor.",
+    "label": "in"
+  },
+  {
+    "text": "Stresli anlarda sakinleşmek için kısa bir nefes tekniği anlatır mısın?",
+    "label": "in"
+  },
+  {
+    "text": "Kendimi yalnız hissediyorum; sanki kimse beni gerçekten tanımıyor.",
+    "label": "in"
+  },
+  {
+    "text": "Yüksek beklenti yüzünden hata yapmaktan aşırı korkuyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Ruminasyon nedir? Bende var gibi, nasıl azalır?",
+    "label": "in"
+  },
+  {
+    "text": "Bir konu yüzünden sürekli “ya şöyle olursa” diye senaryo kuruyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Duygularımı bastırıyorum; sonra bir anda patlıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Kendime zarar düşüncelerimle başa çıkmak için acil olmayan ama güvenli adımlar neler olabilir?",
+    "label": "in"
+  },
+  {
+    "text": "Terapiye başlamaya karar vermek zor; ilk seansta ne konuşulur?",
+    "label": "in"
+  },
+  {
+    "text": "Bedenim sürekli alarmda gibi: kaslarım gergin, çenem sıkılı.",
+    "label": "in"
+  },
+  {
+    "text": "Uyandığım an kaygı başlıyor; gün ilerledikçe biraz azalıyor.",
+    "label": "in"
+  },
+  {
+    "text": "“Hayır” dediğimde suçlu hissediyorum, bunu nasıl yönetirim?",
+    "label": "in"
+  },
+  {
+    "text": "Kendimi öldürmek istiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Kendimi katletmek istiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Canıma kıymak istiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Kafamı duvarlara vurmak istiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Bugün akşam ne yemek yapsam? Kolay bir tarif söyle.",
+    "label": "out"
+  },
+  {
+    "text": "Telefonumun pil sağlığını nasıl artırırım?",
+    "label": "out"
+  },
+  {
+    "text": "Python ile web scraping nasıl yapılır? Örnek kod yaz.",
+    "label": "out"
+  },
+  {
+    "text": "Laptop fanı çok ses yapıyor, ne önerirsin?",
+    "label": "out"
+  },
+  {
+    "text": "Bana bir iş başvurusu için kısa bir motivasyon mektubu yaz.",
+    "label": "out"
+  },
+  {
+    "text": "Dolar kuru bugün kaç?",
+    "label": "out"
+  },
+  {
+    "text": "En iyi kulaklık önerin ne? 2025 modeller.",
+    "label": "out"
+  },
+  {
+    "text": "Yarın Ankara’ya gideceğim, gezilecek yer öner.",
+    "label": "out"
+  },
+  {
+    "text": "Matematikte türev konusunu anlatır mısın?",
+    "label": "out"
+  },
+  {
+    "text": "Hukuki olarak kira sözleşmesi feshi nasıl olur?",
+    "label": "out"
+  },
+  {
+    "text": "Futbol maçının skor tahmini var mı?",
+    "label": "out"
+  },
+  {
+    "text": "Cildimde döküntü var, hangi krem iyi gelir?",
+    "label": "out"
+  },
+  {
+    "text": "Boğaz ağrısı için antibiyotik gerekir mi?",
+    "label": "out"
+  },
+  {
+    "text": "Kan tahlili sonucumu yorumlar mısın?",
+    "label": "out"
+  },
+  {
+    "text": "Kalp çarpıntısına hangi ilaç iyi gelir?",
+    "label": "out"
+  },
+  {
+    "text": "YouTube kanalım için logo fikri ver.",
+    "label": "out"
+  },
+  {
+    "text": "Bana yeni yıl için esprili mesaj yaz.",
+    "label": "out"
+  },
+  {
+    "text": "Steam’de en iyi indirim oyunları hangileri?",
+    "label": "out"
+  },
+  {
+    "text": "Ev internetim yavaş, modem ayarlarından ne yapmalıyım?",
+    "label": "out"
+  },
+  {
+    "text": "Excel’de pivot tablo nasıl yapılır?",
+    "label": "out"
+  },
+  {
+    "text": "İçimde sürekli bir huzursuzluk var ama nedenini tam söyleyemiyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Bazen hiçbir şey yapmak istemiyorum, sadece yatmak istiyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Günlerdir kafamın içi çok dolu, susmuyor.",
+    "label": "in"
+  },
+  {
+    "text": "İnsanların yanında kendim gibi davranamıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Bir hata yaptığımda günlerce kendimi affedemiyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Her şey yolundayken bile içim daralıyor.",
+    "label": "in"
+  },
+  {
+    "text": "Gelecekle ilgili düşüncelerim beni kilitliyor.",
+    "label": "in"
+  },
+  {
+    "text": "Sanki sürekli tetikteyim, rahatlayamıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Kafamda en kötü ihtimali düşünmeden duramıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "İnsanlarla konuşurken yanlış bir şey söylemekten çok korkuyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Yalnız kalınca düşüncelerim daha da ağırlaşıyor.",
+    "label": "in"
+  },
+  {
+    "text": "Bazen hiçbir şey hissetmiyorum, bu da beni korkutuyor.",
+    "label": "in"
+  },
+  {
+    "text": "Gün içinde enerjim bir anda düşüyor.",
+    "label": "in"
+  },
+  {
+    "text": "Kendimi başkalarına yük gibi hissediyorum.",
+    "label": "in"
+  },
+  {
+    "text": "İçimde sürekli bir suçluluk var ama sebebi net değil.",
+    "label": "in"
+  },
+  {
+    "text": "Bir şeyleri kontrol etmezsem kötü sonuçlanacak gibi geliyor.",
+    "label": "in"
+  },
+  {
+    "text": "Rahatlamak için sürekli telefonla oyalanıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Karar vermem gereken anlarda donup kalıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Birinin beni eleştirmesi günümü mahvediyor.",
+    "label": "in"
+  },
+  {
+    "text": "Zihinsel olarak çok yorgunum ama fiziksel olarak değil.",
+    "label": "in"
+  },
+  {
+    "text": "Kendimle ilgili beklentilerim beni eziyor.",
+    "label": "in"
+  },
+  {
+    "text": "Duygularımı bastırmak artık işe yaramıyor.",
+    "label": "in"
+  },
+  {
+    "text": "İnsanlara güvenmekte zorlanıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Her şeyi tek başıma halletmem gerekiyormuş gibi hissediyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Bir şeyler yanlış ama adını koyamıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "İntihar edeceğim",
+    "label": "crisis"
+  },
+  {
+    "text": "Yaşamıma son vermek istiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Kendimi gebertmek istiyorum",
+    "label": "crisis"
+  },
+  {
+    "text": "Bugün borsada hangi hisseler yükseldi?",
+    "label": "out"
+  },
+  {
+    "text": "Bana kısa bir reklam metni yazar mısın?",
+    "label": "out"
+  },
+  {
+    "text": "Telefonum neden bu kadar yavaşladı?",
+    "label": "out"
+  },
+  {
+    "text": "Yapay zeka nedir kısaca anlat.",
+    "label": "out"
+  },
+  {
+    "text": "PDF dosyasını Word'e nasıl çeviririm?",
+    "label": "out"
+  },
+  {
+    "text": "Bu akşam için dizi öner.",
+    "label": "out"
+  },
+  {
+    "text": "En iyi yatırım aracı hangisi?",
+    "label": "out"
+  },
+  {
+    "text": "Elektrik faturam çok geldi ne yapabilirim?",
+    "label": "out"
+  },
+  {
+    "text": "Bana resmi bir dilekçe yaz.",
+    "label": "out"
+  },
+  {
+    "text": "Bu hatanın çözümü nedir? (404 error)",
+    "label": "out"
+  },
+  {
+    "text": "Telefon kamerası neden bulanık çekiyor?",
+    "label": "out"
+  },
+  {
+    "text": "En yakın eczane nerede?",
+    "label": "out"
+  },
+  {
+    "text": "Bu kan değerleri normal mi?",
+    "label": "out"
+  },
+  {
+    "text": "Hangi vitamin daha faydalı?",
+    "label": "out"
+  },
+  {
+    "text": "Kredi notu nasıl yükseltilir?",
+    "label": "out"
+  },
+  {
+    "text": "Online alışverişte iade süresi kaç gün?",
+    "label": "out"
+  },
+  {
+    "text": "Bir sunum için başlık öner.",
+    "label": "out"
+  },
+  {
+    "text": "Yurt dışına çıkmak için gerekenler neler?",
+    "label": "out"
+  },
+  {
+    "text": "Bilgisayarda depolama alanı nasıl boşaltılır?",
+    "label": "out"
+  },
+  {
+    "text": "Bu oyunun sistem gereksinimleri nedir?",
+    "label": "out"
+  },
+  {
+    "text": "Kendime zarar vermekten korkuyorum; şu an kontrolümü kaybedebilirim.",
+    "label": "crisis"
+  },
+  {
+    "text": "Kendimi kesmek istiyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "İlaçların hepsini içip bitirmek gibi bir düşüncem var.",
+    "label": "crisis"
+  },
+  {
+    "text": "Kendimi öldürmeyi düşünüyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "Keşke hiç uyanmasam; yaşamak istemiyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "Balkona çıkıp atlamayı düşünüyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "Kendime kıymayı planlıyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "Şu an kendime zarar vereceğim gibi hissediyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "Dayanamıyorum, kendimi öldürsem daha iyi olur.",
+    "label": "crisis"
+  },
+  {
+    "text": "Kafamı duvara defalarca vurmak istiyorum.",
+    "label": "crisis"
+  },
+  {
+    "text": "Son zamanlarda içim daralıyor ve nefesim yetmiyor gibi oluyor; sakinleşmek için ne yapabilirim?",
+    "label": "in"
+  },
+  {
+    "text": "Kalbim çarpıyor, titriyorum; panik gibi geliyor ve korkuyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Aklıma istemediğim düşünceler geliyor; ya kendime zarar verirsem diye panikliyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Sürekli kontrol etmezsem kötü bir şey olacakmış gibi hissediyorum; bu düşünceler beni yoruyor.",
+    "label": "in"
+  },
+  {
+    "text": "İş yerinde tükenmiş hissediyorum; eve gelince hiçbir şey yapacak gücüm kalmıyor.",
+    "label": "in"
+  },
+  {
+    "text": "Kendimi sürekli yetersiz buluyorum; iç sesim beni azarlıyor.",
+    "label": "in"
+  },
+  {
+    "text": "Yakın birini kaybettim ve yas sürecinde çok zorlanıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Uykuya dalmakta zorlanıyorum; geceleri düşüncelerim susmuyor.",
+    "label": "in"
+  },
+  {
+    "text": "İlişkimde sınır koymakta zorlanıyorum; hayır deyince suçluluk hissediyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Sosyal ortamlarda herkes beni yargılıyor gibi geliyor; bu yüzden kaçınmaya başladım.",
+    "label": "in"
+  },
+  {
+    "text": "Öfkem birikiyor; bazen patlayacak gibi oluyorum ve sonra pişman oluyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Gün içinde bir anda ağlama geliyor; sebepsiz yere duygulanıyorum.",
+    "label": "in"
+  },
+  {
+    "text": "Kafamda aynı konuşmaları tekrar tekrar düşünüyorum; ruminasyon gibi.",
+    "label": "in"
+  },
+  {
+    "text": "Hiçbir şeyden zevk almıyorum; keyfim günlerdir yok.",
+    "label": "in"
+  },
+  {
+    "text": "Kendime karşı daha şefkatli olmayı öğrenmek istiyorum; nereden başlayabilirim?",
+    "label": "in"
+  },
+  {
+    "text": "Panik atak ile anksiyete arasındaki fark nedir?",
+    "label": "out"
+  },
+  {
+    "text": "Depresyon tanısı nasıl konur?",
+    "label": "out"
+  },
+  {
+    "text": "OKB için en etkili ilaç hangisi?",
+    "label": "out"
+  },
+  {
+    "text": "Antidepresanlar kilo aldırır mı, hangisi daha az aldırır?",
+    "label": "out"
+  },
+  {
+    "text": "Uyku için melatonin kaç mg alınmalı?",
+    "label": "out"
+  },
+  {
+    "text": "Psikiyatri randevusu için hangi bölüme gitmeliyim?",
+    "label": "out"
+  },
+  {
+    "text": "Telefonum çok ısınıyor, batarya hızlı bitiyor; ne yapmalıyım?",
+    "label": "out"
+  },
+  {
+    "text": "Wi‑Fi şifremi unuttum, modem ayarlarına nasıl girerim?",
+    "label": "out"
+  },
+  {
+    "text": "Dolar kuru bugün ne olur?",
+    "label": "out"
+  },
+  {
+    "text": "Bitcoin al-sat için en iyi strateji hangisi?",
+    "label": "out"
+  },
+  {
+    "text": "Maç skor tahmini yapar mısın?",
+    "label": "out"
+  },
+  {
+    "text": "PDF dosyasını nasıl küçültürüm?",
+    "label": "out"
+  },
+  {
+    "text": "Kolay bir makarna tarifi verir misin?",
+    "label": "out"
+  },
+  {
+    "text": "Hukuki olarak sözleşme feshi nasıl yapılır?",
+    "label": "out"
+  },
+  {
+    "text": "Tahlil sonucuma göre hangi vitaminleri kullanmalıyım?",
+    "label": "out"
+  }
+]

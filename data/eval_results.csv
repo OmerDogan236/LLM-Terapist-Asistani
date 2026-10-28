@@ -1,0 +1,31 @@
+question,expected_source,top1_source,top3_sources,top1_hit,top3_hit
+What are the genetic changes related to leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation ?,GHR,GHR,GHR; GHR; GARD,1,1
+What to do for Primary Biliary Cirrhosis ?,NIDDK,NIDDK,NIDDK; NIDDK; NIDDK,1,1
+Who is at risk for Fecal Incontinence? ?,NIDDK,NIDDK,NIDDK; NIDDK; NIDDK,1,1
+What is (are) Pervasive Developmental Disorders ?,NINDS,NINDS,NINDS; NINDS; NINDS,1,1
+What are the symptoms of Crome syndrome ?,GARD,GARD,GARD; GARD; GARD,1,1
+What is (are) Chronic Fatigue Syndrome ?,MPlusHealthTopics,CDC,CDC; MPlusHealthTopics; GARD,0,1
+Is nonsyndromic holoprosencephaly inherited ?,GHR,GHR,GHR; GARD; GHR,1,1
+How to prevent Balance Problems ?,NIHSeniorHealth,NIHSeniorHealth,NIHSeniorHealth; NIDDK; NIHSeniorHealth,1,1
+What are the symptoms of Porencephaly ?,GARD,GARD,GARD; GARD; GARD,1,1
+"How many people are affected by intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies ?",GHR,GHR,GHR; GHR; GHR,1,1
+What is (are) Guillain-Barre syndrome ?,GARD,MPlusHealthTopics,MPlusHealthTopics; GARD; NINDS,0,1
+What is (are) Wallenberg's Syndrome ?,NINDS,NINDS,NINDS; NINDS; NINDS,1,1
+How many people are affected by familial cylindromatosis ?,GHR,GHR,GHR; GHR; GHR,1,1
+What are the complications of Hemochromatosis ?,NIDDK,NIDDK,NIDDK; NIDDK; NIDDK,1,1
+What are the treatments for transthyretin amyloidosis ?,GHR,GHR,GHR; GARD; GHR,1,1
+What is (are) Pierson syndrome ?,GARD,GARD,GARD; GARD; GARD,1,1
+What are the complications of Lupus Nephritis ?,NIDDK,NIDDK,NIDDK; GARD; NIDDK,1,1
+What are the treatments for tetra-amelia syndrome ?,GHR,GHR,GHR; GARD; GARD,1,1
+what research (or clinical trials) is being done for Machado-Joseph Disease ?,NINDS,NINDS,NINDS; NINDS; NINDS,1,1
+Is myoclonic epilepsy myopathy sensory ataxia inherited ?,GHR,GHR,GHR; GHR; GHR,1,1
+What is (are) Menkes Disease ?,NINDS,GARD,GARD; NINDS; GHR,0,1
+What are the genetic changes related to hereditary multiple osteochondromas ?,GHR,GHR,GHR; GHR; GARD,1,1
+How many people are affected by Acquired Cystic Kidney Disease ?,NIDDK,NIDDK,NIDDK; GHR; GHR,1,1
+What are the genetic changes related to hyperlysinemia ?,GHR,GHR,GHR; GHR; GHR,1,1
+What are the genetic changes related to Liddle syndrome ?,GHR,GHR,GHR; GARD; GARD,1,1
+What is (are) Stillbirth ?,MPlusHealthTopics,MPlusHealthTopics,MPlusHealthTopics; MPlusHealthTopics; MPlusHealthTopics,1,1
+Who is at risk for Smoking and the Digestive System? ?,NIDDK,NIDDK,NIDDK; NIDDK; NIDDK,1,1
+What to do for What I need to know about Diarrhea ?,NIDDK,NIDDK,NIDDK; NIDDK; NIDDK,1,1
+What is (are) Medicare and Continuing Care ?,NIHSeniorHealth,NIHSeniorHealth,NIHSeniorHealth; NIHSeniorHealth; NIHSeniorHealth,1,1
+What is (are) Oculodentodigital dysplasia ?,GARD,GARD,GARD; GHR; GHR,1,1
